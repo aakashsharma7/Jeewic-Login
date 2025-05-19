@@ -1,0 +1,9 @@
+.selectContainer select option {
+  background-color: white;
+  padding: 8px;
+}
+
+.selectContainer select option:hover {
+  background-color: #FFEDD5;
+  color: #C2410C;
+}
